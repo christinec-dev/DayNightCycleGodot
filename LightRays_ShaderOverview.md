@@ -11,7 +11,6 @@
 # LightRays Shader Overview
 ## Shader Context
 - `shader_type canvas_item;` - Indicates that the shader is intended for 2D elements rendered on a canvas.
-- `render_mode unshaded;` - Specifies that the shader does not rely on Godot's built-in lighting and shading system, meaning it will manually handle how pixels are shaded or colored.
 
 ## Uniforms Explained
 - `color`: Defines the base color of the light rays.
