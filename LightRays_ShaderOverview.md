@@ -1,4 +1,3 @@
-
 # Common Shader Data Types
 - `float`: A float represents a floating-point number, which is a number that has a decimal point. Floating-point numbers are used for most calculations within shaders where precision about fractional values is important.It's genereally used for defining scalar values like opacity, time, distances, and other measurements that require decimal precision.
 - `vec2`: A vec2 is a 2-component vector data type. It contains two floating-point numbers. It's commonly used to represent coordinates in 2D space, texture coordinates, or any two-dimensional data.
