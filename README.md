@@ -3,6 +3,7 @@ This is the official GitHub repository for the shader-based Day & Night Cycle, f
 
 ## Resources
 To learn more about shaders and how they are used in Godot, visit the following resources:
+- [YouTube Video](https://www.youtube.com/watch?v=UN3I8IP_BBY)
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Godot Book of Shaders](https://jayaarrgh.itch.io/book-of-shaders-godot)
 - [Shadows Shader Overview](https://github.com/christinec-dev/DayNightCycleGodot/blob/main/Shadows_ShaderOverview.md)
